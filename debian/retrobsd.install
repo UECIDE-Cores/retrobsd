@@ -1,0 +1,5 @@
+src/api/ cores/retrobsd
+src/core.txt cores/retrobsd
+src/examples/ cores/retrobsd
+src/libraries/ cores/retrobsd
+src/tools/ cores/retrobsd

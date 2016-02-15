@@ -1,0 +1,18 @@
+Source: retrobsd
+Section: cores
+XBSC-Family: pic32
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: retrobsd
+Section: cores
+Architecture: all
+XBSC-Group: PIC32
+Depends: pic32-tools-452
+Description: Application Programming for RetroBSD
+ This core allows you to program applications for RetroBSD within UECIDE.
+
+
+
