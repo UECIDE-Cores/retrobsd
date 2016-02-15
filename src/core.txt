@@ -1,6 +1,6 @@
 name=retrobsd
-description=Application compilation core for RetroBSD target
-compiler=pic32-tools-452
+description=Application Programming for RetroBSD
+compiler=pic32-tools-451
 
 cflags=-EL::-msoft-float::-fno-short-double::-nostdinc::-g::-Os::-Wall::-I${core.root}/api/include
 

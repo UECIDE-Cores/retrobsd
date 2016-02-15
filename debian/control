@@ -10,9 +10,9 @@ Package: retrobsd
 Section: cores
 Architecture: all
 XBSC-Group: PIC32
-Depends: pic32-tools-452
+Depends: pic32-tools-451
 Description: Application Programming for RetroBSD
  This core allows you to program applications for RetroBSD within UECIDE.
-
-
-
+ .
+ **Note that it requires the (rather ancient) version 4.5.1 of the PIC32
+ compiler.**
